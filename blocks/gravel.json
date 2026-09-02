@@ -1,0 +1,15 @@
+{
+  "parent": "base:sand",
+  "caption": "gravel",
+  "base:loot@append": [
+    {
+      "item": "ns_extras:gravel",
+      "count": 1
+    },
+    {
+      "item": "ns_extras:flint",
+      "count": 1,
+      "chance": 0.1
+    }
+  ]
+}

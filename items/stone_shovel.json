@@ -1,0 +1,11 @@
+{
+  "icon-type": "sprite",
+  "icon": "items:stone_shovel",
+  "stack-size": 1,
+  "uses": 130,
+  "not_survival:tool": {
+    "type": ["shovel"],
+    "speed": 4
+  },
+  "tags@append": ["not_survival:tool"]
+}

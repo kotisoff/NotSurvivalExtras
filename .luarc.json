@@ -1,0 +1,14 @@
+{
+  "runtime": {
+    "path": ["modules/?.lua"],
+    "version": "LuaJIT"
+  },
+  "workspace": {
+    "library": ["../NotUtils/modules", "../NotSurvival/modules"]
+  },
+  "diagnostics": {
+    "neededFileStatus": {
+      "undefined-field": "Any"
+    }
+  }
+}

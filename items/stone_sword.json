@@ -1,0 +1,16 @@
+{
+  "icon-type": "sprite",
+  "icon": "items:stone_sword",
+  "stack-size": 1,
+  "uses": 130,
+  "not_survival:tool": {
+    "type": ["sword"],
+    "speed": 4
+  },
+  "not_survival:weapon": {
+    "type": ["melee"],
+    "damage": 5,
+    "speed": 1.6
+  },
+  "tags": ["not_survival:tool", "not_survival:sword", "not_survival:weapon"]
+}

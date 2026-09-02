@@ -1,0 +1,17 @@
+{
+  "type": "not_crafting:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "not_survival:stick"
+    },
+    "X": {
+      "item": "not_survival:cobblestone"
+    }
+  },
+  "pattern": ["XXX", " # ", " # "],
+  "result": {
+    "count": 1,
+    "id": "ns_extras:stone_pickaxe"
+  }
+}

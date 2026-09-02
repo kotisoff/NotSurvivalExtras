@@ -1,0 +1,10 @@
+{
+  "id": "ns_extras",
+  "title": "NotSurvival Extra Content",
+  "version": "0.1.0",
+  "creator": "KotIsOff",
+  "description": "Кажется, здесь должны был быть контент...",
+  "dependencies": [
+    "!not_survival"
+  ]
+}

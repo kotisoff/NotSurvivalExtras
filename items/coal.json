@@ -1,0 +1,5 @@
+{
+  "icon-type": "sprite",
+  "icon": "items:coal",
+  "not_crafting:fuel_burn_time": 1600
+}

@@ -1,0 +1,8 @@
+{
+  "base:loot@append": [
+    {
+      "item": "ns_extras:cobblestone.item",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "base:loot@append": [
+    {
+      "item": "base:sand.item",
+      "count": 1
+    }
+  ]
+}

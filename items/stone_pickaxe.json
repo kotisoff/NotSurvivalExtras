@@ -1,0 +1,11 @@
+{
+  "icon-type": "sprite",
+  "icon": "items:stone_pickaxe",
+  "stack-size": 1,
+  "uses": 130,
+  "not_survival:tool": {
+    "type": ["pickaxe"],
+    "speed": 4
+  },
+  "tags@append": ["not_survival:tool"]
+}

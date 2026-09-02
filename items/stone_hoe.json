@@ -1,0 +1,11 @@
+{
+  "icon-type": "sprite",
+  "icon": "items:stone_hoe",
+  "stack-size": 1,
+  "uses": 130,
+  "not_survival:tool": {
+    "type": ["hoe"],
+    "speed": 4
+  },
+  "tags@append": ["not_survival:tool"]
+}
