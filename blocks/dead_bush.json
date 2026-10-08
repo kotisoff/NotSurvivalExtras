@@ -2,12 +2,12 @@
   "parent": "base:flower",
   "caption": "dead bush",
   "texture": "dead_bush",
-  "picking-item": "not_survival:dead_bush.item",
+  "picking-item": "ns_extras:dead_bush.item",
   "script-name": "dead_bush",
   "not_crafting:fuel_burn_time": 50,
   "base:loot": [
     {
-      "item": "not_survival:stick",
+      "item": "ns_extras:stick",
       "min": 1,
       "max": 2
     }

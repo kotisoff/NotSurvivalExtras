@@ -1,11 +1,36 @@
 {
-  "blocks": [],
+  "entities": [],
   "items": [
     "stone_axe",
     "stone_hoe",
     "stone_pickaxe",
     "stone_shovel",
-    "stone_sword"
+    "stone_sword",
+    "apple",
+    "bottle",
+    "coal",
+    "flint",
+    "potion",
+    "stick",
+    "wooden_axe",
+    "wooden_hoe",
+    "wooden_pickaxe",
+    "wooden_shovel",
+    "wooden_sword"
   ],
-  "entities": []
+  "blocks": [
+    "base:coal_ore",
+    "base:grass",
+    "base:grass_block",
+    "base:ice",
+    "base:leaves",
+    "base:sand",
+    "base:stone",
+    "cobblestone",
+    "dead_bush",
+    "gravel",
+    "sapling",
+    "white_bed",
+    "white_wool"
+  ]
 }

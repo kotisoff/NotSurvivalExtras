@@ -2,7 +2,7 @@
   "parent": "base:flower",
   "caption": "sapling",
   "texture": "sapling",
-  "picking-item": "not_survival:sapling.item",
+  "picking-item": "ns_extras:sapling.item",
   "script-name": "sapling",
   "not_crafting:fuel_burn_time": 50,
   "tags": ["not_survival:sapling"]

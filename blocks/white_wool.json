@@ -1,6 +1,6 @@
 {
   "texture": "white_wool",
-  "material": "not_survival:wool",
+  "material": "ns_extras:wool",
   "tags": ["not_survival:wool"],
   "base:durability": 2
 }

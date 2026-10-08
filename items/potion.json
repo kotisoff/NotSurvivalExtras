@@ -4,7 +4,7 @@
   "not_survival:food": {
     "type": "drink",
     "eat-anyway": true,
-    "replace-item": "not_survival:bottle"
+    "replace-item": "ns_extras:bottle"
   },
   "tags@append": ["not_survival:potion"]
 }
