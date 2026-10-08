@@ -6,12 +6,12 @@
       "item": "ns_extras:stick"
     },
     "X": {
-      "item": "ns_extras:cobblestone"
+      "item": "base:planks"
     }
   },
-  "pattern": [" XX", " # ", " # "],
+  "pattern": ["X", "#", "#"],
   "result": {
     "count": 1,
-    "id": "ns_extras:stone_hoe"
+    "id": "ns_extras:wooden_shovel"
   }
 }

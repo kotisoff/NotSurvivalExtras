@@ -5,13 +5,14 @@
     "#": {
       "item": "ns_extras:stick"
     },
-    "X": {
-      "item": "ns_extras:cobblestone"
+    "C": {
+      "item": "ns_extras:coal"
     }
   },
-  "pattern": [" XX", " # ", " # "],
+  "pattern": ["C", "#"],
   "result": {
-    "count": 1,
-    "id": "ns_extras:stone_hoe"
-  }
+    "count": 2,
+    "id": "base:torch"
+  },
+  "show_notification": false
 }

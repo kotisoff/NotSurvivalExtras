@@ -1,0 +1,12 @@
+{
+  "type": "not_crafting:smelting",
+  "category": "building",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "ns_extras:cobblestone"
+  },
+  "result": {
+    "id": "base:stone"
+  }
+}
